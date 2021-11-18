@@ -1,7 +1,8 @@
 <img src="ML.png">
 <h1>Supervised Learning-Regression Projects</h1>
-
-
+<br>
+<h3>1. Regression</h3>
+<p>Regression algorithms are used if there is a relationship between the input variable and the output variable. It is used for the prediction of continuous variables, such as Weather forecasting, Market Trends, etc.</p>
 
 
 
