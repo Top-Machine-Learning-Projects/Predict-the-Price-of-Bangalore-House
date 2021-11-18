@@ -1,2 +1,2 @@
 <img src="ML.png">
-# Supervised Learning Regression Projects
+<h1>Supervised Learning Regression Projects</h1>
