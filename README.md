@@ -27,9 +27,14 @@
 - The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
 
 
+## Problem Statement
+- This data set consists of the physical parameters of three species of flower — Versicolor, Setosa and Virginica. The numeric parameters which the dataset contains are Sepal width, Sepal length, Petal width and Petal length. In this data we will be predicting the classes of the flowers based on these parameters.The data consists of continuous numeric values which describe the dimensions of the respective features. We will be training the model based on these features.
 
+## Data
+- [Download](ht://drive.google.com/file/d/1gPZTy7vS9FKew8DA5zpXk16Ke35Rz03F/view?usp=sharing)
 
-
+## Source Code
+- [Download](htt://drive.google.com/file/d/11tllHkU-lsQYFt3DxczoC6eggbsVm9Re/view?usp=sharing)
 
 
 
