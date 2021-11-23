@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Predict the Price of Bangalore House
 
 You can use the [editor on GitHub](https://github.com/Top-Machine-Learning-Projects/ML-Supervised-Learning-Regression-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
